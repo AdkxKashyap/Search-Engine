@@ -1,0 +1,27 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "design phase",
+  "main": "index.php",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsRRM97/Search-Engine.git"
+  },
+  "author": "akash/roshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsRRM97/Search-Engine/issues"
+  },
+  "homepage": "https://github.com/ItsRRM97/Search-Engine#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
